@@ -1,4 +1,6 @@
-##Review - *The Illusion of Victory*
+# Book Review - WWI 
+
+##*The Illusion of Victory*
 
 At around five hundred pages, Fleming's *The Illusion of Victory* was daunting at first glance. I didn't really know what the book was about, other than it had to do with America's role in WWI. The back of the book gave a broad overview of what it would encompass, but I was under the impression that it was the typical history book, detailing all the different steps of America's involvement over a broad range of general knowledge. Once I began reading it, I realized that the entire book revolves around Wilson and his policies. For all intents and purposes, this is a biography.
 
