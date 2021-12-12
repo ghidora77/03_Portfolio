@@ -1,6 +1,6 @@
 # Book Review - WWI 
 
-##Book Review - *Decisions for War, 1914-1917*
+## Book Review - *Decisions for War, 1914-1917*
 
 In the book, *Decisions for War*, Richard Hamilton and Roger Herwig argue that the rush to battle was a result of the decision making of just a few individuals. While a quick glance at the cover and the summary narrative indicates a dry academic publication, I was surprised to find that it reads surprisingly well. By reducing the story to a few, very influential people, they had the capacity to deeply explore the inner dealings of these leaders, which introduces an interesting personal element. There were times that I felt that I was actually at the table sitting with Kaiser Wilhelm II or Lord Gray, going over telegrams and coordinating strategy. History books have a tendency to give so many facts that they overwhelm the readers. For instance, David Herrmann's *The Arming of Europe and the Making of the First World War* provides the reader with an incredible amount of information; numbers, statistics, hundreds of names, events, and documents. While this information is good to have, I wasn't sure how it all related to the broader perspective.
 

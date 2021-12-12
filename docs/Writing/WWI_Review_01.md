@@ -1,6 +1,6 @@
 # Book Review - WWI 
 
-### The Arming of Europe and the Making of the First World War
+## *The Arming of Europe and the Making of the First World War*
 
 World War I's incredible breadth and wealth of subjects and events allows for an historian to take myriad approaches. In David Herrmann's *The Arming of Europe and the Making of the First World War*, he focuses on the evolution of European military balance by researching some of the lesser recognized events, such as the Moroccan Crisis. This book is exhaustively researched, and while dry at times, it provides the reader with a much richer understanding of how European nationalism created an all-encompassing global war. Herrmann successfully describes the militarization of Europe unique from some of the more well-known WWI historians, such as Barbara Tuchman or John Keegan.
 
