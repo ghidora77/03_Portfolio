@@ -1,6 +1,6 @@
 # Book Review - WWI 
 
-## The Oxford Illustrated History of the First World War
+### *The Oxford Illustrated History of the First World War*
 
 When I picked up Hew Strachan's *The Oxford Illustrated History of the First World War*, I was immediately hooked. Many textbooks or scholarly works lose something in translation, turning a momentous event that shaped humanity's course into something no more than a thesis supported by emotionless arguments. When it comes to WWI, I associate more so with the soldiers on the ground, trying to get through each day in the midst of artillery, machine gun fire and horrific conditions. When I read their diaries or letters home, I imagine what it would be like to face that same situation, and I have much more empathy with those on the front line than the generals in the back. I must say, of all the books on WWI that I've read, Strachan has piqued my interest and held my attention much more so than the others.
 
