@@ -2,34 +2,8 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Writing
 
-Let's discover **Docusaurus in less than 5 minutes**.
+It recently occurred to me how much I've written. Between college, graduate studies and just throwing together a few paragraphs for the challenge of it, I've unwittingly built quite a portfolio. But, what was the point? Words sitting in my electronic folder system don't do me (or anyone else) any good, so I've been going through the process of putting them onto this portfolio website. A sizable amount of my work doesn't deserve to see the light of the internet, but I've been combing through ones with potential, cleaning them up and putting them into a logical order. Hopefully you get some use out of this writing. 
 
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npm init docusaurus@latest my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+![im_intro](im/im_intro.JPG)
