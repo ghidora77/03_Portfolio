@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Middle East Studies/IranMilitary",
+  "id": "Middle East Studies/IranMilitary",
+  "title": "Iran's Unique Military Structure",
+  "description": "Iran has a unique armed forces hierarchy - their conventional army has a lineage that extends back to the Safavid period in the early sixteenth century, counterbalanced by the Revolutionary Guard, which originated during the revolution as an ambiguous paramilitary force. The latter has gradually taken on responsibilities of the conventional military while also defending and expanding unconventional foreign operations. Both are under the complete control of the Ayatollah and clerics, establishing yet another link between Islamic authority, revolution and military command. Another offshoot, tasked with quelling internal dissent, is the Basij, a hybrid of auxiliary police, enforcers of moral standards, and internal security operating loosely under the direction of the Revolutionary Guard. The intertwined relationships, chains of command and ambiguous doctrine illustrate the complexity of Iran’s security establishment and demonstrate the vast challenges that the country faces in dealing with both the international community and internal dissent in protest of the regime’s autocracy. The modern transition of the Iranian military is characterized by four distinct phases:",
+  "source": "@site/docs/Middle East Studies/IranMilitary.md",
+  "sourceDirName": "Middle East Studies",
+  "slug": "/Middle East Studies/IranMilitary",
+  "permalink": "/docs/Middle East Studies/IranMilitary",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Middle East Studies/IranMilitary.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Book Review - WWI",
+    "permalink": "/docs/World War I/WWI_Review_04"
+  },
+  "next": {
+    "title": "Whiplash",
+    "permalink": "/docs/Middle East Studies/Whiplash"
+  }
+}

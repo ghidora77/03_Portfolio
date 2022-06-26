@@ -1,0 +1,23 @@
+{
+  "unversionedId": "World War I/WWI_Review_04",
+  "id": "World War I/WWI_Review_04",
+  "title": "Book Review - WWI",
+  "description": "The Illusion of Victory",
+  "source": "@site/docs/World War I/WWI_Review_04.md",
+  "sourceDirName": "World War I",
+  "slug": "/World War I/WWI_Review_04",
+  "permalink": "/docs/World War I/WWI_Review_04",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/World War I/WWI_Review_04.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Book Review - WWI",
+    "permalink": "/docs/World War I/WWI_Review_03"
+  },
+  "next": {
+    "title": "Iran's Unique Military Structure",
+    "permalink": "/docs/Middle East Studies/IranMilitary"
+  }
+}

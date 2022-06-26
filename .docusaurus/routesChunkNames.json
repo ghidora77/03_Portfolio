@@ -1,0 +1,119 @@
+{
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/blog-fd5": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-526-755"
+      },
+      {
+        "content": "content---blog-3-d-2-051"
+      },
+      {
+        "content": "content---blog-330-74d"
+      },
+      {
+        "content": "content---blog-762-3dd"
+      },
+      {
+        "content": "content---blog-5-a-5-dbc"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/2015/05/01/-cb2": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2015-05-01-7-fe-159"
+  },
+  "/blog/2016/04/01/-3d4": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2016-04-01-91-b-042"
+  },
+  "/blog/2016/05/01/-268": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2016-05-01-25-d-e3c"
+  },
+  "/blog/2017/06/01/-64e": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2017-06-01-829-d7d"
+  },
+  "/blog/archive-f4c": {
+    "component": "component---theme-blog-archive-page-9-e-4-1d8",
+    "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/blog/welcome-fbd": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcome-63-c-470"
+  },
+  "/markdown-page-be1": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-cd5": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/intro-aed": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/Middle East Studies/IranMilitary-1bd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-middle-east-studies-iran-militaryb-78-240"
+  },
+  "/docs/Middle East Studies/Whiplash-50c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-middle-east-studies-whiplashe-94-4d1"
+  },
+  "/docs/Science and Tech Policy/Article Review - Economic Metrics-d13": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-science-and-tech-policy-article-review-economic-metrics-44-b-d72"
+  },
+  "/docs/World War I/WWI_Review_01-498": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-world-war-i-wwi-review-01921-29d"
+  },
+  "/docs/World War I/WWI_Review_02-1f0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-world-war-i-wwi-review-02-d-01-454"
+  },
+  "/docs/World War I/WWI_Review_03-3a0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-world-war-i-wwi-review-03955-2ce"
+  },
+  "/docs/World War I/WWI_Review_04-032": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-world-war-i-wwi-review-047-dc-15a"
+  },
+  "/-deb": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
+  }
+}

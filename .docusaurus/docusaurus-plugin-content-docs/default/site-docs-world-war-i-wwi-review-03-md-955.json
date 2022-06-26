@@ -1,0 +1,23 @@
+{
+  "unversionedId": "World War I/WWI_Review_03",
+  "id": "World War I/WWI_Review_03",
+  "title": "Book Review - WWI",
+  "description": "The Oxford Illustrated History of the First World War",
+  "source": "@site/docs/World War I/WWI_Review_03.md",
+  "sourceDirName": "World War I",
+  "slug": "/World War I/WWI_Review_03",
+  "permalink": "/docs/World War I/WWI_Review_03",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/World War I/WWI_Review_03.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Book Review - WWI",
+    "permalink": "/docs/World War I/WWI_Review_02"
+  },
+  "next": {
+    "title": "Book Review - WWI",
+    "permalink": "/docs/World War I/WWI_Review_04"
+  }
+}

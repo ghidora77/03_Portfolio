@@ -8,7 +8,7 @@ I was expecting the book to focus specifically on the war itself, going into det
 
 While skimming through all the pictures and captions, I came across a photo that I could not stop looking at. The picture was taken on the first day of the Arras offensive in August 1918, and it shows the railway line near *Achiet-le-Petit* completely destroyed. 
 
-![im_ww1_01](../im/im_ww1_01.jpg)
+![im_ww1_01](https://loz-webimages.s3.amazonaws.com/01_Portfolio/im_ww1_01.jpg)
 
 Railway near Achiet-le-Petit, 21 August 918
 

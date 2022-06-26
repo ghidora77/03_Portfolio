@@ -1,0 +1,23 @@
+{
+  "unversionedId": "World War I/WWI_Review_01",
+  "id": "World War I/WWI_Review_01",
+  "title": "Book Review - WWI",
+  "description": "The Arming of Europe and the Making of the First World War",
+  "source": "@site/docs/World War I/WWI_Review_01.md",
+  "sourceDirName": "World War I",
+  "slug": "/World War I/WWI_Review_01",
+  "permalink": "/docs/World War I/WWI_Review_01",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/World War I/WWI_Review_01.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Writing",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Book Review - WWI",
+    "permalink": "/docs/World War I/WWI_Review_02"
+  }
+}

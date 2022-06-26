@@ -8,4 +8,4 @@ It recently occurred to me how much I've written. Between college, graduate stud
 
 Note that this writing skews more towards the humanities. In recent years, I've moved towards computer science and Remote Sensing, but I still try and stay engaged with international relations, history and design. Check out the 'Science and Tech' tab if you're more interested in that.  
 
-![im_intro](im/im_intro.JPG)
+![im_intro](https://loz-webimages.s3.amazonaws.com/01_Portfolio/im_intro.JPG)

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "World War I/WWI_Review_02",
+  "id": "World War I/WWI_Review_02",
+  "title": "Book Review - WWI",
+  "description": "Decisions for War, 1914-1917",
+  "source": "@site/docs/World War I/WWI_Review_02.md",
+  "sourceDirName": "World War I",
+  "slug": "/World War I/WWI_Review_02",
+  "permalink": "/docs/World War I/WWI_Review_02",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/World War I/WWI_Review_02.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Book Review - WWI",
+    "permalink": "/docs/World War I/WWI_Review_01"
+  },
+  "next": {
+    "title": "Book Review - WWI",
+    "permalink": "/docs/World War I/WWI_Review_03"
+  }
+}

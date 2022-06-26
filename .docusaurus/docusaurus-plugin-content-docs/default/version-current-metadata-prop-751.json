@@ -1,0 +1,135 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Writing",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "World War I",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Book Review - WWI",
+            "href": "/docs/World War I/WWI_Review_01",
+            "docId": "World War I/WWI_Review_01"
+          },
+          {
+            "type": "link",
+            "label": "Book Review - WWI",
+            "href": "/docs/World War I/WWI_Review_02",
+            "docId": "World War I/WWI_Review_02"
+          },
+          {
+            "type": "link",
+            "label": "Book Review - WWI",
+            "href": "/docs/World War I/WWI_Review_03",
+            "docId": "World War I/WWI_Review_03"
+          },
+          {
+            "type": "link",
+            "label": "Book Review - WWI",
+            "href": "/docs/World War I/WWI_Review_04",
+            "docId": "World War I/WWI_Review_04"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Middle East Studies",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Iran's Unique Military Structure",
+            "href": "/docs/Middle East Studies/IranMilitary",
+            "docId": "Middle East Studies/IranMilitary"
+          },
+          {
+            "type": "link",
+            "label": "Whiplash",
+            "href": "/docs/Middle East Studies/Whiplash",
+            "docId": "Middle East Studies/Whiplash"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Science and Tech Policy",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Article Review - Economic Metrics",
+            "href": "/docs/Science and Tech Policy/Article Review - Economic Metrics",
+            "docId": "Science and Tech Policy/Article Review - Economic Metrics"
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "Writing",
+      "description": "It recently occurred to me how much I've written. Between college, graduate studies and just throwing together a few paragraphs for the challenge of it, I've unwittingly built quite a collection. But, what was the point? Words sitting in my electronic folder system don't do me (or anyone else) any good, so I've been going through the process of putting together a portfolio. A sizable amount of my work doesn't deserve to see the light of the internet, but I've been combing through ones with potential, cleaning them up and putting them into a logical order. Hopefully you get some use out of this writing.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Middle East Studies/IranMilitary": {
+      "id": "Middle East Studies/IranMilitary",
+      "title": "Iran's Unique Military Structure",
+      "description": "Iran has a unique armed forces hierarchy - their conventional army has a lineage that extends back to the Safavid period in the early sixteenth century, counterbalanced by the Revolutionary Guard, which originated during the revolution as an ambiguous paramilitary force. The latter has gradually taken on responsibilities of the conventional military while also defending and expanding unconventional foreign operations. Both are under the complete control of the Ayatollah and clerics, establishing yet another link between Islamic authority, revolution and military command. Another offshoot, tasked with quelling internal dissent, is the Basij, a hybrid of auxiliary police, enforcers of moral standards, and internal security operating loosely under the direction of the Revolutionary Guard. The intertwined relationships, chains of command and ambiguous doctrine illustrate the complexity of Iran’s security establishment and demonstrate the vast challenges that the country faces in dealing with both the international community and internal dissent in protest of the regime’s autocracy. The modern transition of the Iranian military is characterized by four distinct phases:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Middle East Studies/Whiplash": {
+      "id": "Middle East Studies/Whiplash",
+      "title": "Whiplash",
+      "description": "Whiplash",
+      "sidebar": "tutorialSidebar"
+    },
+    "Science and Tech Policy/Article Review - Economic Metrics": {
+      "id": "Science and Tech Policy/Article Review - Economic Metrics",
+      "title": "Article Review - Economic Metrics",
+      "description": "In his 2018 book, The Growth Delusion: Wealth, Poverty and the Well-Being of Nations, David Pilling brings up provocative questions.",
+      "sidebar": "tutorialSidebar"
+    },
+    "World War I/WWI_Review_01": {
+      "id": "World War I/WWI_Review_01",
+      "title": "Book Review - WWI",
+      "description": "The Arming of Europe and the Making of the First World War",
+      "sidebar": "tutorialSidebar"
+    },
+    "World War I/WWI_Review_02": {
+      "id": "World War I/WWI_Review_02",
+      "title": "Book Review - WWI",
+      "description": "Decisions for War, 1914-1917",
+      "sidebar": "tutorialSidebar"
+    },
+    "World War I/WWI_Review_03": {
+      "id": "World War I/WWI_Review_03",
+      "title": "Book Review - WWI",
+      "description": "The Oxford Illustrated History of the First World War",
+      "sidebar": "tutorialSidebar"
+    },
+    "World War I/WWI_Review_04": {
+      "id": "World War I/WWI_Review_04",
+      "title": "Book Review - WWI",
+      "description": "The Illusion of Victory",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Science and Tech Policy/Article Review - Economic Metrics",
+  "id": "Science and Tech Policy/Article Review - Economic Metrics",
+  "title": "Article Review - Economic Metrics",
+  "description": "In his 2018 book, The Growth Delusion: Wealth, Poverty and the Well-Being of Nations, David Pilling brings up provocative questions.",
+  "source": "@site/docs/Science and Tech Policy/Article Review - Economic Metrics.md",
+  "sourceDirName": "Science and Tech Policy",
+  "slug": "/Science and Tech Policy/Article Review - Economic Metrics",
+  "permalink": "/docs/Science and Tech Policy/Article Review - Economic Metrics",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Science and Tech Policy/Article Review - Economic Metrics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Whiplash",
+    "permalink": "/docs/Middle East Studies/Whiplash"
+  }
+}

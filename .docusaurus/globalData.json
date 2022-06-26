@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Middle East Studies/IranMilitary",
+              "path": "/docs/Middle East Studies/IranMilitary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Middle East Studies/Whiplash",
+              "path": "/docs/Middle East Studies/Whiplash",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Science and Tech Policy/Article Review - Economic Metrics",
+              "path": "/docs/Science and Tech Policy/Article Review - Economic Metrics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "World War I/WWI_Review_01",
+              "path": "/docs/World War I/WWI_Review_01",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "World War I/WWI_Review_02",
+              "path": "/docs/World War I/WWI_Review_02",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "World War I/WWI_Review_03",
+              "path": "/docs/World War I/WWI_Review_03",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "World War I/WWI_Review_04",
+              "path": "/docs/World War I/WWI_Review_04",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Middle East Studies/Whiplash",
+  "id": "Middle East Studies/Whiplash",
+  "title": "Whiplash",
+  "description": "Whiplash",
+  "source": "@site/docs/Middle East Studies/Whiplash.md",
+  "sourceDirName": "Middle East Studies",
+  "slug": "/Middle East Studies/Whiplash",
+  "permalink": "/docs/Middle East Studies/Whiplash",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Middle East Studies/Whiplash.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Iran's Unique Military Structure",
+    "permalink": "/docs/Middle East Studies/IranMilitary"
+  },
+  "next": {
+    "title": "Article Review - Economic Metrics",
+    "permalink": "/docs/Science and Tech Policy/Article Review - Economic Metrics"
+  }
+}
